@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BasicResource.iml" filepath="$PROJECT_DIR$/BasicResource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleBasicResource.iml" filepath="$PROJECT_DIR$/SampleBasicResource.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
